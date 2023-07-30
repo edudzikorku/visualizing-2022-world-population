@@ -1,6 +1,6 @@
 # visualizing-2022-world-population
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/edudzikorku/visualizing-2022-world-population/tree/main/output/notebook/visualizing_world_population.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/edudzikorku/visualizing-2022-world-population/blob/c12b9f5c63a28cb937bd93f10a38b8f0c7575f62/output/notebook/visualizing_world_population.ipynb)
 
 # Description:
 
@@ -20,7 +20,7 @@ The project fetches population data through the World Bank API and employs Pytho
 
 ### How to Use:
 
-To explore the <a href="https://github.com/edudzikorku/visualizing-2022-world-population/tree/c12b9f5c63a28cb937bd93f10a38b8f0c7575f62/output/html/world_population_sunburst.html" target=_blank>sunburst plot</a>, simply interact with the chart using your mouse or touchpad. Zoom in to view specific continents or countries, and hover over segments to access population statistics. The plot provides an effortless and enjoyable way to analyze global population dynamics.
+To explore the <a href="https://github.com/edudzikorku/visualizing-2022-world-population/tree/main/output/html/world_population_sunburst.html" target="_blank">sunburst plot</a>, simply interact with the chart using your mouse or touchpad. Zoom in to view specific continents or countries, and hover over segments to access population statistics. The plot provides an effortless and enjoyable way to analyze global population dynamics.
 
 ### Motivation:
 
