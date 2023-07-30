@@ -1,6 +1,6 @@
 # visualizing-2022-world-population
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/edudzikorku/visualizing-2022-world-population/main/output/notebook/visualizing_world_population.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/edudzikorku/visualizing-2022-world-population/tree/main/output/notebook/visualizing_world_population.ipynb)
 
 # Description:
 
