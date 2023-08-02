@@ -20,7 +20,7 @@ The project fetches population data through the World Bank API and employs Pytho
 
 ### How to Use:
 
-To explore the <a href="https://github.com/edudzikorku/visualizing-2022-world-population/main/output/html/world_population_sunburst.html" target="_blank">sunburst plot</a>, simply interact with the chart using your mouse or touchpad. Zoom in to view specific continents or countries, and hover over segments to access population statistics. The plot provides an effortless and enjoyable way to analyze global population dynamics.
+To explore the <a href="https://edudzikorku.github.io/concept-3d/dist/world_population_sunburst.html" target="_blank">sunburst plot</a>, simply interact with the chart using your mouse or touchpad. Zoom in to view specific continents or countries, and hover over segments to access population statistics. The plot provides an effortless and enjoyable way to analyze global population dynamics.
 
 ### Motivation:
 
